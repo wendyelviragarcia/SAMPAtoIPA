@@ -6,13 +6,13 @@ The avaliable scripts have been designed for Catalan and for Spanish, for other 
 ## Catalan symbols
 
 For Catalan there are a few innacuracies or simply things that I transcribe differently in the MAUS documentacion.
-- I have corrected what, based on the comments in the MAUS documentation and my own experience in transcription, I believe to be a mistake: rr is not a long r but rather the trill [r], whereas a single r is the tap [ɾ]. Similarly, jj does not correspond to a long [j] but the voiced palatal approximant [ʝ̞].
-- I use the tie for affricates: e.g. t͡ʃ
-- I use the dental diacritic for dental stops, e.g. t̪
-- I use the lowered diacritic for all the 'fricatives' because they are approximants in approximately 85% of cases (β̞). This way, removing the diacritic when a true fricative is encountered is easier.
-- I have added the velarized ɫ.
+- I have corrected what, based on the comments in the MAUS documentation and my own experience in transcription, I believe to be a mistake: [rr] is not a long [rː] but rather the trill [r], whereas a single [r] in MAUS-SAMPA is the tap [ɾ]. Similarly, [jj] does not correspond to a long [j] but the voiced palatal approximant [ʝ̞].
+- I use the tie for affricates, e.g. [t͡ʃ].
+- I use the dental diacritic for dental stops, e.g. [t̪].
+- I use the lowered diacritic for all the 'fricatives' because they are approximants in approximately 85% of cases [β̞]. This way, removing the diacritic when a true fricative is encountered is easier.
+- I have added the velarized lateral [ɫ].
 
-Here you have the equivalencies that I used:
+Here you the whole list of the equivalencies that I used:
 
 | MAUS  | MAUS-IPA Interpretation | IPA in This Script |
 |-------|-------------------------|--------------------|
