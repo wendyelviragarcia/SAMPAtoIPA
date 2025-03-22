@@ -1,7 +1,7 @@
 # SAMPAtoIPA
 A set of Praat scripts that change the transcription of all of the TextGrid files in a folder from SAMPA (MAUS output version) to IPA.
 
-The avaliable scripts have been designed for Catalan and for Spanish, for other languages you will need to add symbols.
+The avaliable scripts have been designed for Catalan and for Spanish, for other languages you may need to add symbols.
 
 ## Catalan symbols
 
@@ -9,15 +9,15 @@ For Catalan there are a few innacuracies in the MAUS documentacion, here you hav
 
 | MAUS  | MAUS-IPA Interpretation | IPA in This Script |
 |-------|-------------------------|--------------------|
-| <usb> | (..)                    | (..)               |
-| <nib> | (.)                     | (.)                |
-| <p:>  | (...)                   | (...)              |
+| usb   | (..)                    | (..)               |
+| nib   | (.)                     | (.)                |
+| p:    | (...)                   | (...)              |
 | <p>   | (...)                   | (...)              |
-| tS    | tʃ                      | t͡ʃ                |
+| tS    | tʃ                      | t͡ʃ                 |
 | rr    | rː                      | r                  |
 | r\    | ɹ                       | ɹ                  |
 | o~    | õ                       | õ                  |
-| jj    | jː                      | ʝ̞                 |
+| jj    | jː                      | ʝ̞                  |
 | h\    | ɦ                       | ɦ                  |
 | e~    | ẽ                       | ẽ                  |
 | dZ    | dʒ                      | dʒ                 |
@@ -58,7 +58,7 @@ For Catalan there are a few innacuracies in the MAUS documentacion, here you hav
 | b     | b                       | b                  |
 | a     | a                       | a                  |
 | @     | ə                       | ə                  |
-| >     | (...)                   |               |
-| <     | (...)                   |               |
+| >     | (...)                   |                    |
+| <     | (...)                   |                    |
 | 5     | not-included            | ɫ                  |
 | r     | not-included            | ɾ                  |
