@@ -5,14 +5,21 @@ The avaliable scripts have been designed for Catalan and for Spanish, for other 
 
 ## Catalan symbols
 
-For Catalan there are a few innacuracies in the MAUS documentacion, here you have the equivalencies that I use instead. 
+For Catalan there are a few innacuracies or simply things that I transcribe differently in the MAUS documentacion.
+- I have corrected what, based on the comments in the MAUS documentation and my own experience in transcription, I believe to be a mistake: rr is not a long r but rather the trill [r], whereas a single r is the tap [ɾ]. Similarly, jj does not correspond to a long [j] but the voiced palatal approximant [ʝ̞].
+- I use the tie for affricates: e.g. t͡ʃ
+- I use the dental diacritic for dental stops, e.g. t̪
+- I use the lowered diacritic for all the 'fricatives' because they are approximants in approximately 85% of cases (β̞). This way, removing the diacritic when a true fricative is encountered is easier.
+- I have added the velarized ɫ.
+
+Here you have the equivalencies that I used:
 
 | MAUS  | MAUS-IPA Interpretation | IPA in This Script |
 |-------|-------------------------|--------------------|
 | usb   | (..)                    | (..)               |
 | nib   | (.)                     | (.)                |
 | p:    | (...)                   | (...)              |
-| <p>   | (...)                   | (...)              |
+| p     | (...)                   | (...)              |
 | tS    | tʃ                      | t͡ʃ                 |
 | rr    | rː                      | r                  |
 | r\    | ɹ                       | ɹ                  |
@@ -30,7 +37,7 @@ For Catalan there are a few innacuracies in the MAUS documentacion, here you hav
 | v     | v                       | v                  |
 | u     | u                       | u                  |
 | T     | θ                       | θ                  |
-| t     | t                       | t                  |
+| t     | t                       | t̪                  |
 | S     | ʃ                       | ʃ                  |
 | s     | s                       | s                  |
 | r     | r                       | r                  |
@@ -47,18 +54,18 @@ For Catalan there are a few innacuracies in the MAUS documentacion, here you hav
 | j     | j                       | j                  |
 | i     | i                       | i                  |
 | h     | h                       | h                  |
-| G     | ɣ                       | ɣ                  |
+| G     | ɣ                       | ɣ̞                  |
 | g     | ɡ                       | ɡ                  |
 | f     | f                       | f                  |
 | E     | ɛ                       | ɛ                  |
 | e     | e                       | e                  |
-| D     | ð                       | ð                  |
-| d     | d                       | d                  |
-| B     | β                       | β                  |
+| D     | ð                       | ð̞                  |
+| d     | d                       | d̪                  |
+| B     | β                       | β̞                  |
 | b     | b                       | b                  |
 | a     | a                       | a                  |
 | @     | ə                       | ə                  |
-| >     | (...)                   |                    |
-| <     | (...)                   |                    |
+| '>'   | (...)                   |                    |
+| '<'   | (...)                   |                    |
 | 5     | not-included            | ɫ                  |
 | r     | not-included            | ɾ                  |
