@@ -69,3 +69,8 @@ Here you the whole list of the equivalencies that I used:
 | '<'   | (...)                   |                    |
 | 5     | not-included            | ɫ                  |
 | r     | not-included            | ɾ                  |
+
+## Spanish symbols
+The same principles as in the previous section apply, including the use of ties for affricates and the approximant diacritic.
+
+However, the Spanish SAMPA system has a significant problem. In Spanish SAMPA, [N] is used for the palatal nasal, but in X-SAMPA, that symbol represents the velar nasal, a necessary symbol in many Spanish varieties. This version follows X-SAMPA, so be aware that if you intend to use it for converting Spanish SAMPA files (e.g., the Glissando corpus, VILE corpus...), you will need to make that adjustment.
