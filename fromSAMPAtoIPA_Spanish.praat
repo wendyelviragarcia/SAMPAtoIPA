@@ -34,9 +34,13 @@ for i to nstrings
 
 	Replace interval texts: tier, 1, 0, "'", "ˈ", "literals"
 	Replace interval texts: tier, 1, 0, "''", "ˈ", "literals"
-	Replace interval texts: tier, 1, 0, ":", "ˈ", "literals"
+	Replace interval texts: tier, 1, 0, ":", "ː", "literals"
 
-	
+		Replace interval texts: tier, 1, 0, "<usb>" , "(..)" , "literals"
+	Replace interval texts: tier, 1, 0, "<nib>" , "(.)" , "literals"
+	Replace interval texts: tier, 1, 0, "<p:>" , "(...)" , "literals"
+	Replace interval texts: tier, 1, 0, "<pː>" , "(...)" , "literals"
+	Replace interval texts: tier, 1, 0, "<p>" , "(...)" , "literals"
 
 
 
